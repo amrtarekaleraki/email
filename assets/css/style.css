@@ -1,0 +1,118 @@
+
+.header1
+{
+    padding-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header1 .icons a i 
+{
+    margin-right: 10px;
+    color: black;
+}
+
+.header1 .icons .link1
+{
+    text-decoration: none;
+}
+
+.header1  .link2 a
+{
+    text-decoration: none;
+}
+
+/* end header1 */
+
+.header2
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.header2 .link1 a 
+{
+    text-decoration: none;
+}
+
+.header2 .logo img
+{
+    max-width:119px;
+    max-height:60px;
+}
+/* end header2 */
+
+.main-img 
+{
+    margin-top: 30px;
+}
+
+.main-img  img 
+{
+    width:100%;
+    min-height:500px;
+}
+
+/* end main-img */
+
+.main-text
+{
+    margin-top: 30px;
+}
+
+.main-text h3 
+{
+    text-align: right;
+}
+.main-text p
+{
+    text-align: right;
+    margin-top: 15px;
+}
+
+
+/* end main-text */
+
+.footer
+{
+    margin-top: 100px;
+    padding: 40px 0px;
+    background-color: rgb(192, 192, 192);
+}
+
+.footer img 
+{
+    display: block;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+}
+
+.footer .phons ,.footer .emails 
+{
+    text-align: center;
+}
+
+.footer  .space 
+{
+    margin: 0px 10px;
+}
+
+
+.footer .icons
+{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer .icons a i
+{
+    color: black;
+    margin-right: 50px;
+    font-size: 30px;
+}
+
+/* end footer */
